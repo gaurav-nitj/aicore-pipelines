@@ -5,7 +5,7 @@ metadata:
   annotations:
     scenarios.ai.sap.com/description: "Learning how to ingest data to workflows"
     scenarios.ai.sap.com/name: "House Price (Gaurav)" # Scenario name should be the use case
-    executables.ai.sap.com/description: "Generate metrics gaurav"
+    executables.ai.sap.com/description: "Generate metrics"
     executables.ai.sap.com/name: "training-metrics" # Executable name should describe the workflow in the use case
     artifacts.ai.sap.com/housedataset.kind: "dataset" # Helps in suggesting the kind of artifact that can be attached.
     artifacts.ai.sap.com/housemodel.kind: "model" # Helps in suggesting the kind of artifact that can be generated.
