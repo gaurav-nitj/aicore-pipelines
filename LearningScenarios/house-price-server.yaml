@@ -14,7 +14,7 @@ metadata:
 spec:
   inputs:
     artifacts:
-      - name: housepricemodelGaurav # placeholder name, do not add `-` in value use only alphanumeric chars
+      - name: housepricemodel # placeholder name, do not add `-` in value use only alphanumeric chars
     parameters:
       - name: greetmessage # placeholder name
         type: string # required for every parameters
