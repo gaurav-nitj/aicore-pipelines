@@ -22,7 +22,7 @@ spec:
 
   - name: mycodeblock1
     container:
-      image: sapcloudplatform-artifactory.apple.com/btp-ai-core/house-price:02 # Your docker image name
+      image: sapcloudplatform-artifactory.apple.com/btp-ai-core/house-price:06 # Your docker image name
       command: ["/bin/sh", "-c"]
       args:
         - "python /app/src/main.py"
