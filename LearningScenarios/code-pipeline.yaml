@@ -12,7 +12,7 @@ metadata:
     ai.sap.com/version: "3.0"
 spec:
   imagePullSecrets:
-    - name:  apple-docker-1 # your docker registry secret
+    - name:  apple-docker # your docker registry secret
   entrypoint: mypipeline
   templates:
   - name: mypipeline
